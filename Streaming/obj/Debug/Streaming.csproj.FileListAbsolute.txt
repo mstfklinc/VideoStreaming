@@ -1,0 +1,3 @@
+E:\C#\VideoStream\Streaming\obj\Debug\Streaming.Properties.Resources.resources
+E:\C#\VideoStream\Streaming\obj\Debug\Streaming.csproj.GenerateResource.cache
+E:\C#\VideoStream\Streaming\obj\Debug\Streaming.csproj.CoreCompileInputs.cache
